@@ -1,104 +1,104 @@
-﻿{
-  "gameplay": "Gameplay",
-  "graphics": "Graphics",
-  "camera": "Camera",
-  "sound": "Sound",
-  "language": "Language",
+{
+  "gameplay": "게임 플레이",
+  "graphics": "그래픽",
+  "camera": "카메라",
+  "sound": "소리",
+  "language": "언어",
   "multiTurnOrders": {
-    "title": "Multi-turn orders",
-    "description": "Toggling this setting on will enable you to issue orders that the game will remember and implement from one turn to the next. These multi-turn orders can span up to 10 turns of movement, and cover location orders like Move as well as target orders like Seek."
+    "title": "다중 턴 명령",
+    "description": "이 설정을 켜면 게임이 특정 턴부터 다음 턴까지 기억하고 실행할 명령을 내릴 수 있습니다. 이러한 다중 턴 명령은 최대 10턴까지 가능하며, 이동과 같은 위치 명령과 추적과 같은 대상 명령을 모두 포함합니다."
   },
   "multiTurnPathMinDistance": {
-    "title": "Multi-turn path min distance"
+    "title": "다중 턴 경로 최소 거리"
   },
   "edgePanning": {
-    "title": "Edge Panning",
-    "description": "Enable panning when mouse reaches screen edges (PC)."
+    "title": "외곽 이동",
+    "description": "마우스 커서를 화면 가장자리에 두어 화면을 이동할 수 있게 합니다 (PC)."
   },
   "useTouchControls": {
-    "title": "Use Touch Controls",
-    "description": "If enabled, it will use controls as if it were a touch device. If not enabled, it will use controls as if it were a PC."
+    "title": "터치 조작 사용",
+    "description": "활성화하면 터치 기반 기기 조작 체계를 사용합니다. 활성화하지 않으면 PC 조작 체계를 사용합니다."
   },
   "allowTouchSelectionBox": {
-    "title": "Allow Touch Selection Box",
-    "description": "Enable selection boxes on touch devices to select multiple units at once."
+    "title": "터키 기기에서의 선택 상자 사용 허용",
+    "description": "터치 기기에서의 선택 상자 사용을 활성화하여 한 번에 여러 부대를 선택할 수 있도록 합니다."
   },
   "smartCurvedMovements": {
-    "title": "Smart Curved Movements",
-    "description": "Enable this option to optimize movement paths with smooth curves, minimizing speed loss during rotations."
+    "title": "지능적 회전 이동",
+    "description": "이 설정을 활성화하면 부대의 이동 경로를 부드러운 곡선형으로 최적화하여 회전 중 속도 손실을 최소화할 수 있습니다."
   },
   "openSelectOrderModal": {
-    "title": "Open Select Order Modal",
-    "description": "Enable this option to show a modal for selecting orders during gameplay."
+    "title": "명령 선택 모달 창 사용",
+    "description": "이 설정을 활성화하면 경지 중 명령 선택을 위한 모달 창이 표시됩니다."
   },
   "showNewBattleEventsModal": {
-    "title": "Show new battle events modal"
+    "title": "새 전투 변동 사항 모달 창 표시"
   },
   "hidePlayerInfo": {
-    "title": "Hide Player Info",
-    "description": "Hides ELO and usernames from the game UI, making players anonymous."
+    "title": "플레이어 정보 숨기기",
+    "description": "게임 UI에서 Elo와 사용자 이름을 숨겨 플레이어를 익명으로 만듭니다."
   },
   "smartReplayCamera": {
-    "title": "Smart Replay Camera",
-    "description": "Enable the spectator camera to automatically focus on the action during replays."
+    "title": "지능적 리플레이 화면",
+    "description": "리플레이 중 화면을 자동으로 행동에 초점을 맞추도록 설정합니다."
   },
   "smartReplayCameraZoom": {
-    "title": "Smart Replay Camera Zoom"
+    "title": "지능적 리플레이 화면 확대/축소"
   },
   "zoomSensibility": {
-    "title": "Zoom Sensibility"
+    "title": "화면 확대/축소 감도"
   },
   "cameraSensibility": {
-    "title": "Camera Sensibility (PC)"
+    "title": "화면 감도 (PC)"
   },
   "replaySpeed": {
-    "title": "Replay Speed"
+    "title": "전투 복기 속도"
   },
   "playerColor": {
-    "title": "Player Color"
+    "title": "플레이어 색상"
   },
   "enemyColor": {
-    "title": "Enemy Color"
+    "title": "적 색상"
   },
   "allyColor": {
-    "title": "Ally Color"
+    "title": "동맹 색상"
   },
   "generalVolume": {
-    "title": "General Volume"
+    "title": "총 음량"
   },
   "shadows": {
-    "title": "Shadows",
-    "description": "Enables shadows on units. This may require the game to pass turn for the units to update."
+    "title": "그림자",
+    "description": "부대 그림자를 활성화합니다. 게임 턴이 지나야 적용됩니다."
   },
   "fullScreen": {
-    "title": "Full Screen",
-    "description": "Toggle full screen mode for the application",
-    "toggle": "Toggle Full Screen"
+    "title": "전체 화면",
+    "description": "애플리케이션 전체 화면 전환",
+    "toggle": "전체 화면 전환"
   },
   "resetSettings": {
-    "title": "Reset Settings",
-    "description": "Restore all settings to their default values. This action will overwrite any customizations you have made."
+    "title": "설정 초기화",
+    "description": "모든 설정을 기본값으로 초기화합니다. 모든 사용자 지정 설정을 덮어쓰게 됩니다."
   },
-  "reset": "Reset",
-  "lineFormation": "Line Formation",
-  "checkerboardFormation": "Checkerboard Formation",
-  "spaceBetweenUnits": "Space between units",
-  "spaceBetweenLines": "Space between lines",
+  "reset": "초기화",
+  "lineFormation": "선형진",
+  "checkerboardFormation": "귀진진",
+  "spaceBetweenUnits": "부대 간 공간",
+  "spaceBetweenLines": "선형진 간 공간",
   "keybindings": {
-    "title": "Keybindings",
-    "pressAKey": "Press a key...",
-    "moveUp": "Move up",
-    "moveDown": "Move down",
-    "moveLeft": "Move left",
-    "moveRight": "Move right",
-    "info": "Info",
-    "submitOrders": "Submit orders",
-    "deselect": "Deselect",
-    "moveOrder": "Move order",
-    "seekOrder": "Seek order",
-    "shootOrder": "Shoot order",
-    "fireAndAdvanceOrder": "Fire and advance order",
-    "fallbackOrder": "Fallback order",
-    "toggleFormation": "Toggle formation"
+    "title": "키보드 단축키",
+    "pressAKey": "지정할 키를 누르세요...",
+    "moveUp": "위로 이동",
+    "moveDown": "아래로 이동",
+    "moveLeft": "왼쪽으로 이동",
+    "moveRight": "오른쪽으로 이동",
+    "info": "정보",
+    "submitOrders": "명령 하달",
+    "deselect": "선택 해제",
+    "moveOrder": "이동 명령",
+    "seekOrder": "추적 명령",
+    "shootOrder": "사격 명령",
+    "fireAndAdvanceOrder": "사격 및 전진 명령",
+    "fallbackOrder": "후퇴 명령",
+    "toggleFormation": "진형 전환"
   }
 }
